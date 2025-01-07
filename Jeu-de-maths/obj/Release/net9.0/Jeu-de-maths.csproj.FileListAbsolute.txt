@@ -1,0 +1,14 @@
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\bin\Release\net9.0\Jeu-de-maths.exe
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\bin\Release\net9.0\Jeu-de-maths.deps.json
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\bin\Release\net9.0\Jeu-de-maths.runtimeconfig.json
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\bin\Release\net9.0\Jeu-de-maths.dll
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\bin\Release\net9.0\Jeu-de-maths.pdb
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\Jeu-de-maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\Jeu-de-maths.AssemblyInfoInputs.cache
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\Jeu-de-maths.AssemblyInfo.cs
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\Jeu-de-maths.csproj.CoreCompileInputs.cache
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\Jeu-de-maths.dll
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\refint\Jeu-de-maths.dll
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\Jeu-de-maths.pdb
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\Jeu-de-maths.genruntimeconfig.cache
+C:\Users\pepit\RiderProjects\Jeu de maths\Jeu-de-maths\obj\Release\net9.0\ref\Jeu-de-maths.dll
